@@ -1,6 +1,6 @@
 # maps
 
-A new Flutter project.
+This is A Real Time Location Tracker using Sockt IO.
 
 ## Getting Started
 
